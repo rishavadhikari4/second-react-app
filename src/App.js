@@ -3,7 +3,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>hello my name is rishav adhikari</h1>
+      <h1>hello my name is rishav adhikari im learing to deploy react app in gh pages</h1>
     </div>
   );
 }
