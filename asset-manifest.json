@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/second-react-app/static/js/main.5db133f5.js",
+    "main.js": "/second-react-app/static/js/main.a2cc7859.js",
     "static/js/453.b29ba966.chunk.js": "/second-react-app/static/js/453.b29ba966.chunk.js",
     "index.html": "/second-react-app/index.html",
-    "main.5db133f5.js.map": "/second-react-app/static/js/main.5db133f5.js.map",
+    "main.a2cc7859.js.map": "/second-react-app/static/js/main.a2cc7859.js.map",
     "453.b29ba966.chunk.js.map": "/second-react-app/static/js/453.b29ba966.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.5db133f5.js"
+    "static/js/main.a2cc7859.js"
   ]
 }
