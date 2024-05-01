@@ -1,0 +1,11 @@
+#head{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: blue;
+}
+#first-list{
+    list-style: lower-alpha;
+    color: brown;
+    
+}
