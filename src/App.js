@@ -9,6 +9,9 @@ function App() {
         <li id="first-list">
           this is the first list
         </li>
+        <li>
+          this is the second list
+        </li>
       </ol>
     </div>
   );
