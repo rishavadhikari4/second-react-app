@@ -9,3 +9,7 @@
     color: brown;
     
 }
+#third-list{
+    list-style: lower-alpha;
+    text-decoration: dotted;
+}

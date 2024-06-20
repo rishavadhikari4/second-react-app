@@ -12,6 +12,9 @@ function App() {
         <li>
           this is the second list
         </li>
+        <li id="third-list">
+          this is the third list
+        </li>
       </ol>
     </div>
   );
